@@ -1,5 +1,5 @@
 
-# [![waylon walker header](http://munyua.pythonanywhere.com/media/images/circle-cropped_3.png)
+# [![waylon walker header](https://uptechpay.com/home2/uploads/peter.png)
 <p align='center'> View my work on 
   <a href="http://munyua.pythonanywhere.com/"> Peter Munyua</a>
 </p>
